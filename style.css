@@ -56,7 +56,7 @@ body {
 
 .hero-section {
     height: auto;
-    background-image: url(../img/Herobg.png);
+    background-image: url("img/Herobg.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
